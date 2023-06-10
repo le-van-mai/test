@@ -1,0 +1,8 @@
+Package: com.mins.apptest4
+Name: AppTest4
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: apptest4
+Author: apptest4
+Section: Utilities
