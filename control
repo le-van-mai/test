@@ -1,0 +1,9 @@
+Package: com.mins.MaiLe
+Name: MaiLe
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mins
+Author: Mins
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
